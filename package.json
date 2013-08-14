@@ -1,0 +1,25 @@
+{
+	"name": "postfix",
+	"types": ["pack"],
+	"version": "1.4",
+	"homepage": "https://github.com/lermit/pack-postfix",
+	"author": "Romain THERRAT",
+	"description": "Postfix checks",
+	"contributors": [
+	  {
+		"name": "Romain THERRAT",
+		"email": "romain42@gmail.com"
+	  },
+	],
+	"repository": "https://github.com/lermit/pack-postfix",
+	"keywords": [
+	  "pack",
+	  "smtp",
+    "postfix",
+    "mail"
+	],
+	"dependencies": {
+	  "shinken": ">=1.4"
+	},
+	"license": "AGPL"
+}

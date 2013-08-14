@@ -1,0 +1,10 @@
+{
+  "name":"postfix",
+  "description":"Postfix monitoring pack"
+  "path":"/software/postfix",
+  "macros":{
+        "_POSTFIX_WARN": "Warning value",
+        "_POSTFIX_CRIT": "Critical value",
+  }
+}
+
